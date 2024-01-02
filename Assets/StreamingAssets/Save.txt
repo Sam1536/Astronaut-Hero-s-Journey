@@ -1,0 +1,6 @@
+{
+    "LastLevel": 1,
+    "PlayerName": "Samuel",
+    "Coins": 20.0,
+    "Health": 2.0
+}
